@@ -20,7 +20,6 @@ Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_
 * **iPhone** — a smartphone produced by Apple that runs the **iOS operating system**.
 * **iOS** —  the operating system that runs all iPhones and iPads. It’s responsible for downloading and running apps, making calls, taking photos, and pretty much everything else.
 * **Swift** — Apple’s modern programming language. It is the language used to make apps for iOS, watchOS, MacOS, and all other Apple platforms. The language is relatively new, so new versions (with different syntax!) come out frequently. For this reason, you should search **Swift 5** (the current version) whenever searching StackOverflow or Google.
-* **Swift 5** — the just-released version of Swift, which we’ll use in this class.
 * **UIKit** — Apple’s user interface development kit, used on iOS. This is how you **interact** on the code level with iOS. You’ll spend most of this class learning UIKit development.
 * **Xcode** — an IDE (integrated development environment) provided by Apple. This is the iOS equivalent of Java’s Eclipse editor. It allows you to write and compile Swift, and also provides a lot of niceties (autocompletion! type checking!).
 * **Xcode Simulator** — a full iPhone simulator built into Xcode. We’ll use this to quickly test iOS apps without needing an actual iPhone (although if you have an iPhone, you can use that too!).
