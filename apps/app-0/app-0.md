@@ -33,7 +33,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 2. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to the latest version **13.2**.
 3. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode might also ask to “Install Additional Required Components” — click yes if so.
 
-If you made it this far, your environment should be set up for the semester. Next, we’ll get started with Xcode playgrounds.
+If you made it this far, your environment should be set up for the semester. Next, we’ll get started with Xcode playgrounds!
 
 ## Important Notes
 * **Downloading Xcode and updating your Macbook will take up a SIGNIFICANT amount of storage.** Even while Xcode itself may only take ~8-12 GBs, it might require extra space while downloading. If you are running into issues while downloading indicating that you do not have enough storage, you may have to clear additional space up to ~20-30 GBs. There are lots of strategies available online for clearing additional space; here are a few that you can try if necessary:
