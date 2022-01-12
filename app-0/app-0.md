@@ -31,12 +31,12 @@ Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_
 4. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode might also ask to “Install Additional Required Components” — click yes.
 
 ## Important Notes
-* Downloading Xcode and updating your Macbook will take up a **SIGNIFICANT** amount of storage. Even while XCode itself only take ~8-12 GBs, it may require extra space while downloading. If you are running into issues while downloading indicating that you do not have enough storage, you may have to clear additional space up to ~20-30 GBs. There are lots of strategies available online for clearing additional space; here are a few that you can try if necessary:
+* Downloading Xcode and updating your Macbook will take up a **SIGNIFICANT** amount of storage. Even while Xcode itself may only take ~8-12 GBs, it might require extra space while downloading. If you are running into issues while downloading indicating that you do not have enough storage, you may have to clear additional space up to ~20-30 GBs. There are lots of strategies available online for clearing additional space; here are a few that you can try if necessary:
     * Clear caches and delete downloaded files
     * Go to Finder and organize all of your files by size; see if there's any large files that can be deleted
     * Delete any unnecessary Applications that are taking up singificant space
     * Download a third-party app to help optimize storage space (e.g. AVG Cleaner)
-* If you do not have access to device capable of running macOS, you are responsible for identifying an alternative method for obtaining one for the purposes of this class; if this applies to you (or should you find yourself unable to download on your current device), here are a few alternative options available:
+* If you do not have access to a device capable of running macOS, you are responsible for identifying an alternative method for obtaining one for the purposes of this class; if this applies to you (or should you find yourself unable to download on your current device), here are a few alternative options available:
     * Van Pelt offerings Macbook rentals through the [Penn Libraries website](https://www.library.upenn.edu/using-libraries/tech-equipment/equipment/macbook) 
     * MacInCloud provides reasonably priced remote Mac servers to run XCode on; you can look into this option [here](https://www.macincloud.com/) if interested
     * If you are still struggling to find a way to access a macOS device, please email me ASAP so we can make necessary arrangements!
