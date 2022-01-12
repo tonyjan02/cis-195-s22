@@ -31,7 +31,6 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 ## Install Xcode
 1. Make sure you are running at least **macOS 11.3 Big Sur** or later. You can check this by clicking on the Apple icon > About this Mac. sIf you are not, you can update your OS from the Mac App Store (keep in mind this will take additional time so plan ahead). This version is required for the most recent Xcode release currently available on the App Store (Xcode 13). Not all Macs can run this version, check that yours can [with this list]("https://support.apple.com/kb/sp833?locale=en_US")
 2. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to the latest version **13.2**.
-![](/apps/app-0/assets/fig2.png?raw=true)
 3. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode might also ask to “Install Additional Required Components” — click yes if so.
 
 If you made it this far, your environment should be set up for the semester. Next, we’ll get started with Xcode playgrounds.
@@ -78,9 +77,6 @@ let pennId = <PENNID>
 print("Hello World \(emoji) My name is \(name) and my pennId is \(pennId)")
 ```
 - Click the play button to compile and run.
-
-Your playground should look like this:
-![](/apps/app-0/assets/fig4.png?raw=true)
 
 Congrats! You just ran your first line of Swift 🎉🎉🎉
 
