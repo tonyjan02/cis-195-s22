@@ -1,12 +1,16 @@
 # App 0: Environment Setup
 
-Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2020/cis195201/home).
+Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
 
 
-**Deadline:** Thursday, January 23rd at **4:20pm** 🤖
+**Deadline:** Mondayy, January 24th at **5:00pm** 🤖
+
+- - - -
+
+**PLEASE READ THROUGH THE ENTIRE ASSIGNMENT BEFORE POSITING ON PIAZZA ‼️**
 
 - - - -
 
@@ -20,19 +24,29 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 * **iPhone** — a smartphone produced by Apple that runs the **iOS operating system**.
 * **iOS** —  the operating system that runs all iPhones and iPads. It’s responsible for downloading and running apps, making calls, taking photos, and pretty much everything else.
 * **Swift** — Apple’s modern programming language. It is the language used to make apps for iOS, watchOS, MacOS, and all other Apple platforms. The language is relatively new, so new versions (with different syntax!) come out frequently. For this reason, you should search **Swift 5** (the current version) whenever searching StackOverflow or Google.
-* **Swift 5** — the just-released version of Swift, which we’ll use in this class.
 * **UIKit** — Apple’s user interface development kit, used on iOS. This is how you **interact** on the code level with iOS. You’ll spend most of this class learning UIKit development.
 * **Xcode** — an IDE (integrated development environment) provided by Apple. This is the iOS equivalent of Java’s Eclipse editor. It allows you to write and compile Swift, and also provides a lot of niceties (autocompletion! type checking!).
 * **Xcode Simulator** — a full iPhone simulator built into Xcode. We’ll use this to quickly test iOS apps without needing an actual iPhone (although if you have an iPhone, you can use that too!).
 
 ## Install Xcode
-1. Make sure you are running at least **MacOS Mojave 10.14.4.** **Catalina is preferred.** If you are not, update your OS from the Mac App Store. This version is required for the version of Xcode we use. Not all Macs can run this version, check that yours can [with this list](http://osxdaily.com/2018/06/05/macos-mojave-compatible-macs-list/).
+1. Make sure you are running at least **macOS 11.3 Big Sur** or later. If you are not, you can update your OS from the Mac App Store (keep in mind this will take additional time so plan ahead). This version is required for the most recent Xcode release currently available on the App Store (Xcode 13). Not all Macs can run this version, check that yours can [with this list]("https://support.apple.com/kb/sp833?locale=en_US")
 ![](/apps/app-0/assets/fig1.png?raw=true)
-3. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to version **11.3**.
+3. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to the latest version **13.2**.
 ![](/apps/app-0/assets/fig2.png?raw=true)
-4. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode will also ask to “Install Additional Required Components” — click yes.
+4. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode might also ask to “Install Additional Required Components” — click yes if so.
 
 If you made it this far, your environment should be set up for the semester. Next, we’ll get started with Xcode playgrounds.
+
+## Important Notes
+* **Downloading Xcode and updating your Macbook will take up a SIGNIFICANT amount of storage.** Even while Xcode itself may only take ~8-12 GBs, it might require extra space while downloading. If you are running into issues while downloading indicating that you do not have enough storage, you may have to clear additional space up to ~20-30 GBs. There are lots of strategies available online for clearing additional space; here are a few that you can try if necessary:
+    * Clear caches and delete downloaded files
+    * Go to Finder and organize all of your files by size; see if there's any large files that can be deleted
+    * Delete any unnecessary Applications that are taking up singificant space
+    * Download a third-party app to help optimize storage space (e.g. AVG Cleaner)
+* If you do not have access to a device capable of running macOS, you are responsible for identifying an alternative method for obtaining one for the purposes of this class; if this applies to you (or should you find yourself unable to download on your current device), here are a few alternative options available:
+    * Van Pelt offers Macbook rentals through the [Penn Libraries Webiste]("https://www.library.upenn.edu/using-libraries/tech-equipment/equipment/macbook")
+    * MacInCloud provides somewhat reasonably priced remote Mac servers to run XCode on; you can look into this option [here]("https://www.macincloud.com/") if interested
+    * If you are still struggling to find a way to access a macOS device, please email me ASAP so we can make necessary arrangements
 
 ## Xcode Playgrounds
 > “Playground - noun: a place where people can play”  
