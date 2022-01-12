@@ -1,12 +1,12 @@
 # App 0: Environment Setup
 
-Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2020/cis195201/home).
+Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
 
 
-**Deadline:** Thursday, January 23rd at **4:20pm** 🤖
+**Deadline:** Monday, January 24th by **5:00pm** 🤖
 
 - - - -
 
@@ -16,7 +16,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 * Make sure you can run apps using the virtual iPhone simulator.
 * Meet the _Playground_ — a “scratch pad“ to quickly experiment with Swift
 
-## Vocab
+## Some iOS Vocabulary
 * **iPhone** — a smartphone produced by Apple that runs the **iOS operating system**.
 * **iOS** —  the operating system that runs all iPhones and iPads. It’s responsible for downloading and running apps, making calls, taking photos, and pretty much everything else.
 * **Swift** — Apple’s modern programming language. It is the language used to make apps for iOS, watchOS, MacOS, and all other Apple platforms. The language is relatively new, so new versions (with different syntax!) come out frequently. For this reason, you should search **Swift 5** (the current version) whenever searching StackOverflow or Google.
