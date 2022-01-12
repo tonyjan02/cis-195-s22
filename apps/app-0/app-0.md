@@ -54,7 +54,7 @@ Playgrounds are miniature testing environments for the Swift language. They allo
 #### Do the following:
 - Make a new folder for this course. Make sub-folders named `tutorials` and `apps`.
 - Open Xcode.
-- Click “Get started with a playground” in the left menu.
+- Go to File > New > Palyground
 - Name the new playground `app0_lastname_firstname` and save it in your new `apps` folder.
 
 Great! You should now see a Playgrounds file with some boilerplate code:
