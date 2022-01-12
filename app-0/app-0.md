@@ -2,14 +2,13 @@
 
 Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 
-**PLEASE READ THROUGH THE ENTIRE ASSIGNMENT BEFORE POSTING ON PIAZZA ‼️**
-
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
-
 
 **Deadline:** Monday, January 24th by **5:00pm** 🤖
 
 - - - -
+
+**PLEASE READ THROUGH THE ENTIRE ASSIGNMENT BEFORE POSTING ON PIAZZA ‼️**
 
 ## Objectives
 * Learn some vocabulary.
