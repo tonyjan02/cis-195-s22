@@ -1,7 +1,7 @@
 # App 0: Environment Setup
 
 Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
-Please leave feedback by creating a GitHub issue or by posting on Piazza.
+PLEASE READ THROUGH THE ENTIRE ASSIGNMENT BEFORE POSTING ON PIAZZA
 
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
 
@@ -26,12 +26,12 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 * **Xcode Simulator** — a full iPhone simulator built into Xcode. We’ll use this to quickly test iOS apps without needing an actual iPhone (although if you have an iPhone, you can use that too!).
 
 ## Install Xcode
-1. Make sure you are running at least **macOS 11.3 Big Sur** or later. If you are not, you can update your OS from the Mac App Store (keep in mind this will take additional time so plan ahead). This version is required for the most recent XCode release currently available on the App Store (XCode 13). Not all Macs can run this version, check that yours can [with this list](https://support.apple.com/kb/sp833?locale=en_US).
+1. Make sure you are running at least **macOS 11.3 Big Sur** or later. If you are not, you can update your OS from the Mac App Store (keep in mind this will take additional time so plan ahead). This version is required for the most recent Xcode release currently available on the App Store (Xcode 13). Not all Macs can run this version, check that yours can [with this list](https://support.apple.com/kb/sp833?locale=en_US).
 3. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to the latest version **13.2.1**.
 4. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode might also ask to “Install Additional Required Components” — click yes.
 
 ## Important Notes
-* Downloading XCode and updating your Macbook will take up a **SIGNIFICANT** amount of storage. Even while XCode itself only take ~8-12 GBs, it may require extra space while downloading. If you are running into issues while downloading indicating that you do not have enough storage, you may have to clear additional space up to ~20-30 GBs. There are lots of strategies available online for clearing additional space; here are a few that you can try if necessary:
+* Downloading Xcode and updating your Macbook will take up a **SIGNIFICANT** amount of storage. Even while XCode itself only take ~8-12 GBs, it may require extra space while downloading. If you are running into issues while downloading indicating that you do not have enough storage, you may have to clear additional space up to ~20-30 GBs. There are lots of strategies available online for clearing additional space; here are a few that you can try if necessary:
     * Clear caches and delete downloaded files
     * Go to Finder and organize all of your files by size; see if there's any large files that can be deleted
     * Delete any unnecessary Applications that are taking up singificant space
