@@ -1,4 +1,4 @@
-# App 1: Swift
+# App 1: Finger Exercises 🏋️‍♀️
 
 Discuss this app & get help on [Piazza](https://www.piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
