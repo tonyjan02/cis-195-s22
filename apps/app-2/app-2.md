@@ -1,6 +1,6 @@
 # App 2: Tic Tac Toe
 
-Discuss this app & get help on [Piazza](https://tiny.cc/cis195-piazza).
+Discuss this app & get help on [Piazza](https://piazza.com/upenn/fall2021/cis1952012021c/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Ideas may be discussed with classmates, but don't work together.
 
@@ -9,8 +9,8 @@ This assignment has 2 parts. Part A covers the interface and app structure, and 
 **Expected Duration:** 1+ hours for Part A, and 2+ hours for Part B.
 
 **Deadlines:**
-* Part A: Thursday, Feb. 6th at **4:20pm**
-* Part B: Thursday, Feb. 13th at **4:20pm**
+* Part A: Monday, Feb. 7th at **5:00pm**
+* Part B: Monday, Feb. 14th at **5:00pm**
 
 - - - -
 
@@ -105,7 +105,7 @@ Late submissions will be graded according to the policy described in Lecture 0. 
 
 ---
 # End of Part A
-SUBMIT YOUR WORK TO THIS POINT on Canvas by Thursday, February 6th at **4:20pm**. Warning: missing this deadline will result in a late grade. Part B will be released on February 6th.
+SUBMIT YOUR WORK TO THIS POINT on Canvas by Monday, February 7th at **5:00pm**. Warning: missing this deadline will result in a late grade. Part B will be released for submission on February 7th.
 ---
 
 # Part B: Toe
@@ -201,5 +201,5 @@ Late submissions will be graded according to the policy described in Lecture 1. 
 
 ---
 # End of Part B
-SUBMIT YOUR WORK TO THIS POINT on Canvas by Thursday, February 13th at **4:20pm**.
+SUBMIT YOUR WORK TO THIS POINT on Canvas by Monday, February 14th at **5:00pm**.
 ---
