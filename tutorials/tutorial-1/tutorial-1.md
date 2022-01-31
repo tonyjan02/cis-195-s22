@@ -31,7 +31,7 @@ The Model-View-Controller design pattern enables us to develop modular and exten
 As you watch, make sure to connect the concepts back to what we built in Recitation. "Passcode" wasn't complex enough to warrant a Model, but we did set up multiple connections between Controller and View.
 
 Watch from 0:37 to 11:58:
-[Stanford - Applying MVC](https://www.youtube.com/watch?v=w7a79cx3UaY&index=2&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)
+[Stanford - Applying MVC](https://www.youtube.com/watch?v=j50mPzDMWVQ)
 
 ### Do the following
 * Create a new `.txt` file named `tut1_lastname_firstname.txt`.
@@ -52,7 +52,7 @@ In general, you'll use the "Life Cycle" methods heavily to control your app.
 
 Read: [Understand the View Controller Lifecycle](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html). Stop at “Add a Meal Photo.”
 
-Watch from 00:00 to 10:00: [Stanford - View Controller Life Cycle](https://www.youtube.com/watch?v=tLsPoVDXDG8&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&index=10)
+Watch from 00:00 to 10:00: [Stanford - View Controller Life Cycle](https://www.youtube.com/watch?v=B281mrPUGjg)
 
 *Optional reading: Similarly, apps have a life cycle too. Certain events happen to every app: app gets opened, app finished loading, app exited etc. [This article](https://medium.com/@neroxiao/ios-app-life-cycle-ec1b31cee9dc) describes the possible states your app can flow through. Don't worry if you don't understand everything on these diagrams - they're quite dense.*
 
