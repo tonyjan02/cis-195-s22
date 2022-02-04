@@ -65,7 +65,7 @@ This assignment has 2 parts. Part A covers the interface and app structure, and 
 ## Step 3: Hook up the game board
 * Go to `ViewController.swift`.
 * Make a function to be called when any of the 9 buttons are tapped (hint: use @IBAction). Remember to hook the 9 buttons up to this function.
-* When any of the buttons are pressed, this function should *change the image* of the pressed button. For now, randomly change the image to either "mark-x" or "mark-o" (hint1: use Boolean.random(). hint2: use `.setImage` with a state of `.normal`).
+* When any of the buttons are pressed, this function should *change the image* of the pressed button. For now, randomly change the image to either "mark-x" or "mark-o" (hint1: use Bool.random(). hint2: use `.setImage` with a state of `.normal`).
 * This function should also print out the "button number" (hint: set the `tag` field in IB, and use `sender.tag` in code).
 * That's all for now! We'll return to this function when we're implementing the game logic.
 
