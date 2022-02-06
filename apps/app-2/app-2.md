@@ -47,7 +47,7 @@ This assignment has 2 parts. Part A covers the interface and app structure, and 
 ## Step 0: Create a new project
 * Open Xcode
 * Select "new project" from the start screen, or use File > New > Project in the menu bar
-* Select "Single View Application"
+* Select "App"
 * Name the project "app2_lastname_firstname"
 
 ## Step 1: Import assets
