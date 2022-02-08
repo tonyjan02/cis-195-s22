@@ -149,12 +149,10 @@ When a user taps on a block in your tic-tac-toe grid, you would want to do the f
 * Update the UI to reflect this change in your data structure
 * Check for if the grid contains a winning combination.
 
-## Reset Button
-Recall (from the screenshots at the beginning of this document) that the app contains a ‘Reset’ button to reset the state of the tic-tac-toe game. This feature is useful for when the players want to restart a game, or start a new one. Implementing this feature would entail:
+## Clear Board Button
+Recall (from the screenshots at the beginning of this document) that the app contains a ‘Clear Board’ button to reset the state of the tic-tac-toe game, which began implementing in Part A. This feature is useful for when the players want to restart a game, or start a new one. Implementing this feature would entail:
 
-* Resetting the tic-tac-toe grid. 
-* Hint: Given that the X’s and O’s on the grid are represented by custom images, what value must you set these images to, such that they are in an ‘blank’ or ‘unset’ or ‘none’ state?)
-* Hint: Resetting the blocks of the tic-tac-toe grid would require having object references to them in code (a.k.a. IBOutlets). Use the IBOutletCollection you created in Part A.
+* Resetting the tic-tac-toe grid and all buttons
 * Resetting the ‘status message’ to say “Player 1's Turn” and be black (not green!)
 * Resetting a game board should not reset the scoreboard!
 
