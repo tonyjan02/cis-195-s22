@@ -10,7 +10,7 @@ This assignment has 2 parts. Part A covers the interface and app structure, and 
 
 **Deadlines:**
 * Part A: Monday, Feb. 7th at **5:00pm**
-* Part B: Monday, Feb. 14th at **5:00pm**
+* Part B: Tuesday, Feb. 15th at **5:00pm** **DEADLINE EXTENDED**
 
 - - - -
 
@@ -199,5 +199,5 @@ Late submissions will be graded according to the policy described in Lecture 1. 
 
 ---
 # End of Part B
-SUBMIT YOUR WORK TO THIS POINT on Canvas by Monday, February 14th at **5:00pm**.
+SUBMIT YOUR WORK TO THIS POINT on Canvas by Tuesday, February 15th at **5:00pm**.
 ---
