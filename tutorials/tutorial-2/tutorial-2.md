@@ -1,11 +1,11 @@
 # Tutorial 2: Table View and Delegation
 
-Discuss this tutorial & get help on [Piazza](tiny.cc/cis195-piazza).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 1.5 hours
 
-**Deadline:** Thursday, February 13th at **4:20pm**
+**Deadline:** Tuesday, February 15th at **5:00pm**
 
 
 ⚠️ **Late submissions will be a zero! Be sure to submit by the deadline.**
