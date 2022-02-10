@@ -5,11 +5,6 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 1.5 hours
 
-**Deadline:** Tuesday, February 15th at **5:00pm**
-
-
-⚠️ **Late submissions will be a zero! Be sure to submit by the deadline.**
-
 - - - -
 
 ## Objectives
@@ -60,9 +55,8 @@ Do the following:
 
 ---
 
-## Submission
+## Submission (Optional)
 
 * Submit `tut2_lastname_firstname.txt` on Canvas.
-* **Don't forget - there is no late policy for tutorials. Submit by the deadline!**
 
 
