@@ -1,6 +1,6 @@
 # Tutorial 3: AutoLayout
 
-Discuss this tutorial & get help on [Piazza](https://tiny.cc/cis195-piazza).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 40 minutes
