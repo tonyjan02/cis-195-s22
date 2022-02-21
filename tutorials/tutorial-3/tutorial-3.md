@@ -5,7 +5,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 40 minutes
 
-**Deadline:** Thursday, February 20th at **4:20pm**
+**Optional!**
 
 - - - -
 
