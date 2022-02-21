@@ -1,11 +1,11 @@
 # Tutorial 4: Segues
 
-Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/fall2019/cis195201/home).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** <1 hour
 
-* Thursday, February 27th at **4:20pm**
+**Optional!**
 
 - - - -
 
