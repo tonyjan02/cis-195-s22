@@ -1,13 +1,13 @@
 # App 5: Contacts
 
-Discuss this app & get help on [Piazza](tiny.cc/cis195-piazza).
+Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Ideas may be discussed with classmates, but don't work together.
 
 **Expected Duration:** 2+ hours.
 
 **Deadlines:**
-* Thursday, March 5th at **4:20pm**
+* Monday, March 13 at **5:00pm**
 
 - - - -
 
