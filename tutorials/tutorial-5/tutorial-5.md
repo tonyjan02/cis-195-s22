@@ -1,11 +1,11 @@
 # Tutorial 5: Networking and Multithreading
 
-Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/fall2019/cis195201/home).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 1.5 hours
 
-**Deadline:** Thursday, March 5th at **4:20pm**
+**OPTIONAL**
 
 - - - -
 
@@ -70,8 +70,5 @@ Answer the following questions on Canvas:
 3. Which class do we use to encode JSON?
 
 ---
-
-## Submission
-* Submit the Canvas assignment by the due date.
 
 
