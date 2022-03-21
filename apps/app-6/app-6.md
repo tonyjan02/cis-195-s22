@@ -1,12 +1,12 @@
 # App 6: National Parks
 
-Discuss this app & get help on [Piazza](tiny.cc/cis195-piazza).
+Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2022/srs_cis1952012022a/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Ideas may be discussed with classmates, but don't work together.
 
 **Expected Duration:** 2+ hours.
 
-**Deadlines:** Thursday, April 2nd at **4:20pm**
+**Deadlines:** Monday, April 28 at **5:00pm**
 
 ![](/apps/app-6/assets/fig1.jpg?raw=true)
 
@@ -44,7 +44,6 @@ Tapping on a cell brings the user to another screen, which contains a large vers
 * Create an Xcode project named "NationalParks". You should use Storyboards, not SwiftUI
 * Visit the [NPS website](https://www.nps.gov/subjects/developer/get-started.htm) to obtain an API key
     - You'll get an email containing your key
-* Feel free to use the [Github Repo project](https://github.com/DominicHolmes/cis-195-s20/tree/master/live-demos/github-trending-repos.zip) I made in class to guide your implementation
 
 ## Technical Requirements
 You can complete these requirements roughly in order.
