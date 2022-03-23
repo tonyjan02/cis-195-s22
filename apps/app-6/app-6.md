@@ -6,7 +6,7 @@ Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Idea
 
 **Expected Duration:** 2+ hours.
 
-**Deadlines:** Monday, April 28 at **5:00pm**
+**Deadlines:** Monday, March 28 at **5:00pm**
 
 ![](/apps/app-6/assets/fig1.jpg?raw=true)
 
